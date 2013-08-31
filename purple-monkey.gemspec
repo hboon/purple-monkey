@@ -3,7 +3,7 @@ require File.expand_path('../lib/purple-monkey/version.rb', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name          = 'purple-monkey'
-  gem.version       = PurpleMonkey::VERSION
+  gem.version       = PurpleMonkeyMod::VERSION
   gem.licenses      = ['BSD']
 
   gem.authors  = ['Hwee-Boon Yar']
